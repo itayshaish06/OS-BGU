@@ -35,9 +35,6 @@ Follow these steps to set up your environment:
  ```
 11. to stop the xv6-os click `ctrl+A` and after that click `X` on keyboard.
 
-Now you're all set to begin working on the assignment!
-
-
 ## Task 1: Memory Sharing
 
 In this task we implemented the following kernel functions:
